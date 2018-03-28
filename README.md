@@ -1,5 +1,7 @@
 # A Tale Of Three Dickens
 
+![](three-dickens.jpg)
+
 # Building
 
 Requires, perhaps, `pdftk`.
